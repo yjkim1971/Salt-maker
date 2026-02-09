@@ -1,0 +1,30 @@
+[
+    {
+        "type": "자동 로그인",
+        "details": "영진 / 1 / 09:00:00 / C:\\KiwoomGlobal\\bin\\fx_hero.exe / ",
+        "status": "READY"
+    },
+    {
+        "type": "작업카드 설정",
+        "details": "무한 매수법",
+        "schedule": "0601-INDI / 09:00:00 / 07:59:00 / 60",
+        "status": "PAUSED"
+    },
+    {
+        "type": "작업카드 설정",
+        "details": "그리드 매매",
+        "schedule": "0801-PLUG / 09:00:00 / 07:59:00 / 60",
+        "status": "READY"
+    },
+    {
+        "type": "작업카드 설정",
+        "details": "그리드 매매",
+        "schedule": "0802-NNDM / 09:00:00 / 07:59:00 / 60",
+        "status": "READY"
+    },
+    {
+        "type": "자동 종료",
+        "details": "08:00:00",
+        "status": "READY"
+    }
+]
